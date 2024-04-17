@@ -29,7 +29,30 @@
     }
   },
   "mods": [
-   
+    {
+      "app": "null",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/tnt1.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2023-11/tnt.jpg",
+      "title": "TNT Mod 1",
+      "description": "First make sure you've got the right version!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "null",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/tnt2.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2023-11/tnt.jpg",
+      "title": "TNT Mod 2",
+      "description": "First make sure you've got the right version!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "null",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/tnt3.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2023-11/tnt.jpg",
+      "title": "TNT Mod 3",
+      "description": "First make sure you've got the right version!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    }
   ],
   "settings": {
     "apps": "https://api.npoint.io/cc52cb13679cb04298db",
